@@ -1,4 +1,4 @@
-[MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xpheno.com%2Fblogs%2Fhow-to-become-a-backend-developer%2F&psig=AOvVaw3Hk_CaWmaht1uW_kf1VFCK&ust=1707931397675000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDl-rPqqIQDFQAAAAAdAAAAABAE)
+[MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)
 <h3 align="center">BackEnd developer from United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katlyncosmos&label=Profile%20views&color=0e75b6&style=flat" alt="katlyncosmos" /> </p>
